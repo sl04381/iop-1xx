@@ -1,0 +1,4 @@
+AuthUserFile "/services/users/zstorage20p1/sl04381/www/iop.1xx.bforbrave.com/.htaclu"
+AuthName Members
+AuthType Basic
+Require valid-user
