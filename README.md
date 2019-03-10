@@ -9,3 +9,6 @@ inside out project version 100.0
 inside out project version 100.1
   - added footer and footer.css
   - added jquery, tether, popper
+
+inside out project version 100.2 bug fix
+  - fixed the footer by adjusting the bootstrap column widths wrapping them inside a bootstrap row
