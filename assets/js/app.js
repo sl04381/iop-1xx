@@ -26,10 +26,10 @@ $.ajax({
     $('nav').append(menu);
 
   },
-  error: function(){
+  error: function () {
 
     console.log('all is not good');
-    
+
   }
 });
 }
